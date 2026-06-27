@@ -13,7 +13,7 @@ This repository contains the RTL source code, testbenches, and bare-metal C-firm
 ├── src/
 │   ├── hdl/                       # Hardware Description (Verilog)
 │   │   ├── primitives/            # Custom Math Primitives Library
-│   │   │   ├── Full_Adder.v       # Structural Ripple-Carry Logic
+│   │   │   ├── Adder.v       # Structural Ripple-Carry Logic
 │   │   │   ├── comparator.v       # 1-bit Comparator
 │   │   │   ├── divider.v          # Iterative Divider
 │   │   │   └── multiplier.v       # Iterative Multiplier
